@@ -1,1 +1,17 @@
 
+What do the numbers inside the parentheses after a function name do?
+-They are the coordinate points on the axis. They are called arguments and they define the dimensions and the locations of the shapes. 
+
+What’s the difference between fill and stroke?
+-fill: color of the inside of the shape
+-stroke: color of the outline of the shape
+
+What is the keyboard shortcut to open the JavaScript console in Chrome?
+-Command option J (MAC)
+
+In class, we talked about how a CPU runs through instructions linearly performing calculations. 
+ Think about whether you have ever performed a task like this in your life. What was it?
+
+-I think whenever I have done mathematics, I have performed calculations in a linearly way. 
+When doing math, there are always steps to follow and they should not be done in different orders. 
+Following the steps in an equation help to solve it better and anytime I have done a math equation I have always followed these steps.
